@@ -1,0 +1,1163 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
+  <diagram name="Página-1" id="CpMVWjnYlJ8bSgj1xvd3">
+    <mxGraphModel dx="2200" dy="2234" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="989-_eT2WYPccLRbZkRu-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-2" target="989-_eT2WYPccLRbZkRu-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-2" value="Base, altura, Area" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="69.75" y="-670" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-4" target="989-_eT2WYPccLRbZkRu-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-4" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="69.75" y="-750" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-6" target="989-_eT2WYPccLRbZkRu-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-6" value="Ingreso de Base,&lt;div&gt;altura&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="69.75" y="-560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-8" target="989-_eT2WYPccLRbZkRu-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-8" value="Area= Base*altura/2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="69.75" y="-460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-9" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="69.75" y="-270" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-11" target="989-_eT2WYPccLRbZkRu-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-11" value="Mostrar resultado" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="69.75" y="-380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-12" value="&lt;div&gt;Ejercicio1:&lt;/div&gt;Escribe un programa que calcule el área de un triangulo utilizando la fórmula del área donde el usuario debe ingresar la base y altura del triángulo" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="59.75" y="-920" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-13" value="&lt;div&gt;Ejercicio2:&lt;/div&gt;Crear un programa que determine si un numero ingresado por el usuario es par o impar" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="329.75" y="-920" width="175" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-15" target="989-_eT2WYPccLRbZkRu-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-15" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="364.75" y="-760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-17" target="989-_eT2WYPccLRbZkRu-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-17" value="numero" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="364.75" y="-680" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-19" target="989-_eT2WYPccLRbZkRu-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-19" value="Ingreso del&lt;div&gt;&amp;nbsp;numero&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="364.75" y="-600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-24" target="989-_eT2WYPccLRbZkRu-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-21" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-20" vertex="1" connectable="0">
+          <mxGeometry x="-0.0302" y="3" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-24" target="989-_eT2WYPccLRbZkRu-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-23" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-22" vertex="1" connectable="0">
+          <mxGeometry x="-0.0407" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-24" value="Si residuo es 0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="347.25" y="-420" width="155" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-26" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="649.7499999999998" y="-120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-26" value="Es par" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="589.75" y="-395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-28" target="989-_eT2WYPccLRbZkRu-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-28" value="numero%2==0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="364.75" y="-510" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="424.75" y="-150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-31" target="989-_eT2WYPccLRbZkRu-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-31" value="Es impar" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="364.75" y="-250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-32" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="364.75" y="-150" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-33" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="484.75" y="-130.59000000000003" as="sourcePoint" />
+            <mxPoint x="655.75" y="-130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-57" value="&lt;div&gt;Ejercicio 3:&lt;/div&gt;Crea un programa que determine si un numero ingresado por el usuario es positivo, negativo o cero" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="322.25" y="60" width="140" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-59" target="989-_eT2WYPccLRbZkRu-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-59" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="323.75" y="180" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-59" target="989-_eT2WYPccLRbZkRu-59" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-62" target="4bdg88DIGVANpdf8BEtC-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-62" value="numero" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="327.63" y="260" width="112.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-67" target="989-_eT2WYPccLRbZkRu-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-2" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bdg88DIGVANpdf8BEtC-1">
+          <mxGeometry x="-0.4329" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="461" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-5" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bdg88DIGVANpdf8BEtC-4">
+          <mxGeometry x="-0.0637" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-67" value="numero&amp;gt;=0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="343.75" y="421" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-69" target="989-_eT2WYPccLRbZkRu-74" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-69" value="Es positivo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="481.63" y="438" width="106.25" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-71" target="989-_eT2WYPccLRbZkRu-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="248.06999999999994" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-71" value="Es negativo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="188.57" y="436" width="119" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-74" target="989-_eT2WYPccLRbZkRu-76" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-73" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-72" vertex="1" connectable="0">
+          <mxGeometry x="-0.4245" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-74" value="numero==0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="494.75" y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-76" target="989-_eT2WYPccLRbZkRu-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-76" value="El numero es 0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="477.38" y="650" width="114.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-77" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="314.75" y="650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.456;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="989-_eT2WYPccLRbZkRu-74" target="989-_eT2WYPccLRbZkRu-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-79" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-78" vertex="1" connectable="0">
+          <mxGeometry x="0.4827" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-105" value="&lt;div&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Ejercicio 4:&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Desarrolle un algoritmo que permita leer dos valores distintos,&lt;/span&gt;&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;determinar cuál de los dos valores es el mayor y escribirlo&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="255" y="1340" width="205" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-106" target="989-_eT2WYPccLRbZkRu-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-106" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="288.75" y="1460" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-108" target="989-_eT2WYPccLRbZkRu-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-108" value="numero 1, numero 2,&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="288.75" y="1630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-113" target="989-_eT2WYPccLRbZkRu-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-110" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-109" vertex="1" connectable="0">
+          <mxGeometry x="-0.2118" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-113" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="1770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-112" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-111" vertex="1" connectable="0">
+          <mxGeometry x="0.0523" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-113" value="numero 1 != numero2" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="308.75" y="1730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-115" target="989-_eT2WYPccLRbZkRu-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-115" value="Los numero son iguales" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="1740" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-121" target="989-_eT2WYPccLRbZkRu-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-121" target="989-_eT2WYPccLRbZkRu-123" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-118" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-117" vertex="1" connectable="0">
+          <mxGeometry x="-0.098" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-119" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-121" target="989-_eT2WYPccLRbZkRu-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-120" value="SI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-119" vertex="1" connectable="0">
+          <mxGeometry x="-0.3361" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-121" value="numero 1 &amp;gt;numero 2" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="1730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-122" value="numero 1 es mayor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-123" value="numero 2 es mayor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="1870" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-124" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="1960" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.939;entryY=0.868;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="989-_eT2WYPccLRbZkRu-123" target="989-_eT2WYPccLRbZkRu-124" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="1990" />
+              <mxPoint x="393" y="1990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.733;entryY=0.985;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="989-_eT2WYPccLRbZkRu-122" target="989-_eT2WYPccLRbZkRu-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-128" target="989-_eT2WYPccLRbZkRu-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-128" value="Ingreso de numero 1, ingreso de numero 2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="252.5" y="1550" width="193.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-130" value="Ejercicio 5:&lt;br&gt;Desarrolle un algoritmo que permita leer tres valores y almacenarlos en las variables AB YC respectivamente. El algoritmo debe imprimir cual es el mayor y cuál es el menor. Recuerde constatar que los tres valores introducidos por el teclado sean valores distintos. Presente un mensaje de alerta en caso que se detecte la introducción de valores iguales&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="225" y="2400" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-132" target="4bdg88DIGVANpdf8BEtC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-132" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="280" y="2580" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-134" target="989-_eT2WYPccLRbZkRu-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-134" value="Ingreso de A, ingreso de B, ingreso de C" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="250.63" y="2730" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-140" target="989-_eT2WYPccLRbZkRu-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-138" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-137" vertex="1" connectable="0">
+          <mxGeometry x="0.219" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-140" target="989-_eT2WYPccLRbZkRu-164" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-140" target="989-_eT2WYPccLRbZkRu-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-140" value="A!=B &amp;amp;&amp;amp;B!=C &amp;amp;&amp;amp; A!=C" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="252.5" y="2815" width="175" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.058;entryY=0.3;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-142" target="989-_eT2WYPccLRbZkRu-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="162.56999999999994" y="3320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="3320" />
+              <mxPoint x="242" y="3320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-142" value="No son diferentes" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="102.57" y="2830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-146" target="989-_eT2WYPccLRbZkRu-148" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-144" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-146" target="989-_eT2WYPccLRbZkRu-154" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-145" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-144" vertex="1" connectable="0">
+          <mxGeometry x="-0.346" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-146" value="A&amp;gt;B&amp;amp;&amp;amp; A&amp;gt;C" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="499.13" y="2820" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-148" target="989-_eT2WYPccLRbZkRu-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="3450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="771" y="2860" />
+              <mxPoint x="771" y="3460" />
+              <mxPoint x="190" y="3460" />
+              <mxPoint x="190" y="3330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-148" value="A es mayor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="623.13" y="2830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-154" target="989-_eT2WYPccLRbZkRu-156" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-154" target="989-_eT2WYPccLRbZkRu-156" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-151" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-150" vertex="1" connectable="0">
+          <mxGeometry x="-0.3429" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-152" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-154" target="989-_eT2WYPccLRbZkRu-158" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-153" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-152" vertex="1" connectable="0">
+          <mxGeometry x="-0.7244" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-154" value="B&amp;gt;C" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="500" y="2940" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.239;entryY=1.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-156" target="989-_eT2WYPccLRbZkRu-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="3400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="680" y="3220" />
+              <mxPoint x="681" y="3220" />
+              <mxPoint x="681" y="3420" />
+              <mxPoint x="260" y="3420" />
+              <mxPoint x="260" y="3350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-156" value="B es mayor&amp;nbsp;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="2950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="272.60999999999996" y="3350" as="targetPoint" />
+            <mxPoint x="542.5685714285714" y="3100" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="542.54" y="3370" />
+              <mxPoint x="282.54" y="3370" />
+              <mxPoint x="282.54" y="3350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-158" value="C es mayor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="486.69" y="3070" width="106.63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-159" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230.07" y="3310" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-164" target="989-_eT2WYPccLRbZkRu-166" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-161" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-160" vertex="1" connectable="0">
+          <mxGeometry x="0.248" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-162" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-164" target="989-_eT2WYPccLRbZkRu-169" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-163" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-162" vertex="1" connectable="0">
+          <mxGeometry x="0.5137" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-164" value="A&amp;lt;B&amp;amp;&amp;amp; A&amp;lt;C" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="249.5" y="2970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.8;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-166" target="989-_eT2WYPccLRbZkRu-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="3350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="3010" />
+              <mxPoint x="480" y="3350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-166" value="A es menor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="378.07" y="2995" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-167" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-169" target="989-_eT2WYPccLRbZkRu-170" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-169" target="989-_eT2WYPccLRbZkRu-171" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-169" value="B&amp;lt;C" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="250.07" y="3090" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-170" target="989-_eT2WYPccLRbZkRu-159">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="426.25" y="3330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="3330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-170" value="B es menor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="381.25" y="3110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-171" target="989-_eT2WYPccLRbZkRu-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-171" value="C es menor" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="245.07" y="3210" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-231" value="Ejercicio 6: Conversor de dólares a euros&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Escribe un programa que convierta una cantidad de dinero en dólares a euros utilizando una tasa de cambio fija.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="247.25" y="3610" width="290" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-232" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-233" target="989-_eT2WYPccLRbZkRu-235" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-233" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="312.25" y="3760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-234" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-235" target="989-_eT2WYPccLRbZkRu-237" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-235" value="Dólares, cantidadE" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="312.25" y="3840" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-236" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-237" target="989-_eT2WYPccLRbZkRu-242" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-237" value="Ingreso cantidad de dólares" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="281.75" y="3930" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-238" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="465.87999999999977" y="4059.7400000000002" as="targetPoint" />
+            <mxPoint x="416.88" y="4059.74" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-239" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-238" vertex="1" connectable="0">
+          <mxGeometry x="-0.2084" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-240" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-242" target="989-_eT2WYPccLRbZkRu-248" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-241" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-240" vertex="1" connectable="0">
+          <mxGeometry x="-0.3718" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-242" value="Dólares &amp;gt;=0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="332.25" y="4020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-243" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-244" target="989-_eT2WYPccLRbZkRu-246" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-244" value="cantidadE= Dólares *&amp;nbsp;&lt;h2 style=&quot;box-sizing: border-box; margin-right: 0px; margin-left: 0px; color: var(--color-content-primary); line-height: 31.72px; letter-spacing: -0.02em; font-weight: var(--font-weight-semi-bold); font-size: var(--font-size-26); font-family: Inter, Helvetica, Arial, sans-serif; text-align: left; background-color: rgb(255, 255, 255); margin-top: var(--size-8) !important; margin-bottom: var(--size-8) !important;&quot; class=&quot;np-text-title-section m-t-1 m-b-1&quot;&gt;0,8984&amp;nbsp;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="466.25" y="4035" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-245" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-246" target="989-_eT2WYPccLRbZkRu-249" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-246" value="Tu cantidad de Euros es:&amp;nbsp; cantidadE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="446.25" y="4140" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-247" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-248" target="989-_eT2WYPccLRbZkRu-249" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="196.25000000000023" y="4260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="196.25" y="4200" />
+              <mxPoint x="197.25" y="4200" />
+              <mxPoint x="197.25" y="4260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-248" value="La cantidad debe ser positiva" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="87.47" y="4031.25" width="145.07" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-249" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="292.25" y="4230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-250" value="Ejercicio 7: Conversor de dólares a euros&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left; background-color: rgb(255, 255, 255);&quot;&gt;Escribe un programa que permita al usuario ingresar el precio original de un artículo&amp;nbsp;y el porcentaje de descuento. Luego, el programa debe calcular y mostrar el precio&amp;nbsp;con el descuento aplicado.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="223.13" y="4820" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-251" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-252" target="989-_eT2WYPccLRbZkRu-254" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-252" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="308.13" y="4990" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-253" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-254" target="989-_eT2WYPccLRbZkRu-256" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-254" value="precioOr, porcentajeD, precioDescuento" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="308.13" y="5065" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-255" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-256" target="989-_eT2WYPccLRbZkRu-261" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-256" value="Ingreso precioOr, porcentajeD" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="270.38" y="5190" width="195.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-257" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-261" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="503.13" y="5365" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-258" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-257" vertex="1" connectable="0">
+          <mxGeometry x="0.0579" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-259" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-261" target="989-_eT2WYPccLRbZkRu-267" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-260" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-259" vertex="1" connectable="0">
+          <mxGeometry x="-0.1099" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-261" value="precio &amp;gt;=0 &amp;amp;&amp;amp;descuento&amp;gt;=0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310.63" y="5302.5" width="115" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-262" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-263" target="989-_eT2WYPccLRbZkRu-265" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-263" value="&lt;span style=&quot;text-align: left;&quot;&gt;precioOr - (precioOr * porcentajeD / 100)&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="503.13" y="5335" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-264" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-265" target="989-_eT2WYPccLRbZkRu-268" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-265" value="Tu precio con descuento es + precioDescuento" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="465.88" y="5440" width="195.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-266" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-267" target="989-_eT2WYPccLRbZkRu-268" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="188.38" y="5560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="153.13" y="5540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-267" value="El precio del producto debe ser mayor a 0 dólares y el descuento debe ser igualmente mayor a 0" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="83.13" y="5342.5" width="195.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-268" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="323.13" y="5520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-269" value="Ejercicio 8: Calculadora de operaciones básicas&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Escribe un programa que permita al usuario realizar operaciones matemáticas básicas, como suma , resta, multiplicación, división, entre dos números. El usuario debe ingresar los dos números y seleccionar la operación deseada(Suma, resta, multiplicación o división)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="381.25" y="5940" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-270" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-271" target="989-_eT2WYPccLRbZkRu-273" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-271" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="132.57" y="5970" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-272" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-273" target="989-_eT2WYPccLRbZkRu-275" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-273" value="resultado,num1,num2,operador" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="102.57" y="6050" width="180" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-274" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-275" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="192.60030303030345" y="6262.534255599473" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-275" value="Ingreso num1,num2,operador" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="94.82" y="6160" width="195.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-276" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-280" target="989-_eT2WYPccLRbZkRu-282" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-277" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-276" vertex="1" connectable="0">
+          <mxGeometry x="-0.4015" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-278" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-280" target="989-_eT2WYPccLRbZkRu-289" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-279" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-278" vertex="1" connectable="0">
+          <mxGeometry x="-0.5252" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-280" value="Si operador = &#39;+&#39;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="135.07" y="6260" width="115" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-281" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-282" target="989-_eT2WYPccLRbZkRu-284" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-282" value="resultado = num1 + num2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="322.57" y="6285" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-283" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-284" target="989-_eT2WYPccLRbZkRu-315" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="732.5699999999996" y="7032.597481863839" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="773" y="6325" />
+              <mxPoint x="773" y="7000" />
+              <mxPoint x="251" y="7000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-284" value="El resultado de tu suma es + resultado" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="492.57000000000005" y="6285" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-285" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-289" target="989-_eT2WYPccLRbZkRu-291" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-286" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-285" vertex="1" connectable="0">
+          <mxGeometry x="0.0376" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-287" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-289" target="989-_eT2WYPccLRbZkRu-298" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-288" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-287" vertex="1" connectable="0">
+          <mxGeometry x="-0.1256" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-289" value="Si operador&amp;nbsp; = &quot;-&quot;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="138.82" y="6432.5" width="102.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-290" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-291" target="989-_eT2WYPccLRbZkRu-293" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-291" value="resultado = num1 - num2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="282.57" y="6452.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-292" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-293" target="989-_eT2WYPccLRbZkRu-315" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="692.5699999999996" y="7010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="753" y="6483" />
+              <mxPoint x="753" y="6980" />
+              <mxPoint x="233" y="6980" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-293" value="El resultado de tu resta es + resultado" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="452.57" y="6452.5" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-294" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-298" target="989-_eT2WYPccLRbZkRu-300" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-295" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-294" vertex="1" connectable="0">
+          <mxGeometry x="-0.0038" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-296" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-298" target="989-_eT2WYPccLRbZkRu-307" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-297" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-296" vertex="1" connectable="0">
+          <mxGeometry x="0.278" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-298" value="Si operador&amp;nbsp; = &quot;*&quot;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="138.82" y="6590" width="102.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-299" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-300" target="989-_eT2WYPccLRbZkRu-302" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-300" value="resultado = num1 * num2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="282.57" y="6610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-302" target="989-_eT2WYPccLRbZkRu-315" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="702.5699999999996" y="6980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="704" y="6640" />
+              <mxPoint x="704" y="6970" />
+              <mxPoint x="233" y="6970" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-302" value="El resultado de tu multiplicación es + resultado" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="442.57" y="6610" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-303" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-307" target="989-_eT2WYPccLRbZkRu-309" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-304" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-303" vertex="1" connectable="0">
+          <mxGeometry x="0.2342" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-305" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-307" target="989-_eT2WYPccLRbZkRu-314" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-306" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-305" vertex="1" connectable="0">
+          <mxGeometry x="-0.4598" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-307" value="numero2!=0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="126.07" y="6740" width="128" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-308" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-309" target="989-_eT2WYPccLRbZkRu-311" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-309" value="resultado = num1 / num2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="282.57" y="6750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-310" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-311" target="989-_eT2WYPccLRbZkRu-315" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="682.5699999999996" y="6960" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="684" y="6780" />
+              <mxPoint x="684" y="6950" />
+              <mxPoint x="233" y="6950" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-311" value="El resultado de tu división es + resultado" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="6750" width="212.57" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-312" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-314" target="989-_eT2WYPccLRbZkRu-315" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-313" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-314" target="989-_eT2WYPccLRbZkRu-315" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="14.47" y="7075" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="15" y="6935" />
+              <mxPoint x="15" y="7000" />
+              <mxPoint x="117" y="7000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-314" value="No se puede dividir un numero entre cero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="80.07" y="6880" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-315" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="117.32" y="6974" width="120" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-362" value="Ejercicio 10: En un centro de comunicaciones alquilan tarjetas para realizar llamadas y cobran el monto consumido de la tarjeta más un recargo del 20%&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Teniendo como dato de entrada el monto inicial y el monto final final de la tarjeta, determine el costo de la llamada.&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="252.57" y="8360" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-363" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-364" target="989-_eT2WYPccLRbZkRu-366" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-364" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="337.57" y="8510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-365" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-366" target="989-_eT2WYPccLRbZkRu-368" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-366" value="consumo, recargo = 0.2, montoInicial, montoF, costo" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="307.57" y="8580" width="180" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-367" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-368" target="989-_eT2WYPccLRbZkRu-370" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-368" value="Ingreso MontoInicial, MontoFinal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="286.32" y="8700" width="222.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-369" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-370" target="989-_eT2WYPccLRbZkRu-372" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-370" value="consumo = montoInicial - montoF" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="337.57" y="8810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-371" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-372" target="989-_eT2WYPccLRbZkRu-374" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-372" value="costo = montoC + (consumo*recargo)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="337.57" y="8920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-373" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-374" target="989-_eT2WYPccLRbZkRu-375" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-374" value="Tu costo es: + costo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="327.07" y="9030" width="141" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-375" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="337.57" y="9130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-399" value="Ejercicio 9:&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; text-align: left;&quot;&gt;Una empresa paga a sus empleados además del sueldo base una bonificación&amp;nbsp;especial de 80 dólares por cada hijo. Realice un algoritmo que determine el monto de la&amp;nbsp;bonificación y el monto total a pagar al trabajador&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="35.88" y="7190" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-400" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-401" target="989-_eT2WYPccLRbZkRu-403" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-401" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="7280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-402" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-403" target="989-_eT2WYPccLRbZkRu-405" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-403" value="sueldo, bonificación = 80,&amp;nbsp; numHijos, monto_Bonificación, montoTotal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="355" y="7350" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-404" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-405" target="989-_eT2WYPccLRbZkRu-410" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-405" value="Ingreso de sueldo, numHijos" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="329.5" y="7450" width="181" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-406" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-410" target="989-_eT2WYPccLRbZkRu-413" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-407" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-406" vertex="1" connectable="0">
+          <mxGeometry x="-0.0834" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-408" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-410" target="989-_eT2WYPccLRbZkRu-417" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-409" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="989-_eT2WYPccLRbZkRu-408" vertex="1" connectable="0">
+          <mxGeometry x="0.204" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-410" value="Si hijos&amp;gt;=1 &amp;amp;&amp;amp;&amp;nbsp;&lt;span style=&quot;text-align: left;&quot;&gt;numHijos % 1 =&amp;nbsp; 0&amp;nbsp;&lt;/span&gt;&amp;nbsp;&amp;amp;&amp;amp;hijos!=0" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="355" y="7545" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-411" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-413" target="989-_eT2WYPccLRbZkRu-415" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-412" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="989-_eT2WYPccLRbZkRu-413" target="989-_eT2WYPccLRbZkRu-418" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-413" value="montoBonificación+=numHijos" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="542.57" y="7587.5" width="179" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-415" target="989-_eT2WYPccLRbZkRu-421">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-415" target="989-_eT2WYPccLRbZkRu-419">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="8130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="791" y="7715" />
+              <mxPoint x="791" y="8130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-415" value="El monto de la bonificación es + montoBonificación" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="524.5" y="7690" width="215.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-416" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="989-_eT2WYPccLRbZkRu-417" target="989-_eT2WYPccLRbZkRu-419" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="7850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="8140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-417" value="Debe tener más de un hijo, el # de hijos debe ser entero y&amp;nbsp; no negativo" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="12.25" y="7578.75" width="280" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-418" value="montoTotal = monto_Bonificación + sueldo" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="542.57" y="7510" width="179" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-419" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="410" y="8120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="989-_eT2WYPccLRbZkRu-421" target="989-_eT2WYPccLRbZkRu-419">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-421" value="El monto total a pagar del trabajador es: + montoTtal" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="504.75" y="7780" width="255.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="989-_eT2WYPccLRbZkRu-423" value="&lt;b&gt;NOMBRE: ESTEBAN PESANTEZ - TRABAJO INVIDIDUAL&lt;/b&gt;&lt;div&gt;&lt;b&gt;PROGRAMACIÓN . GRUPO 3&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="60" y="-1110" width="400" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4bdg88DIGVANpdf8BEtC-8" target="989-_eT2WYPccLRbZkRu-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-8" value="Ingresa el número" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="323.13" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4bdg88DIGVANpdf8BEtC-16" target="989-_eT2WYPccLRbZkRu-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-16" value="A, B, C" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="280.63" y="2650" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-36" value="&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Ejercicio extra1:&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Escribe un programa que pida al usuario ingresar un número entero. El programa debe verificar si el número ingresado es divisible por 2 y por 3.Si lo es, debe mostrar un mensaje indicando que el número es divisible por ambos. En caso contrario, mostrar un mensaje indicando que no lo es. Utiliza una estructura condicional anidada con el operador lógico &amp;amp;&amp;amp; (AND). Además, realiza un diagrama de flujo que muestre el proceso.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35.87999999999994" y="9460" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4bdg88DIGVANpdf8BEtC-38" target="4bdg88DIGVANpdf8BEtC-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-38" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333.25" y="9690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4bdg88DIGVANpdf8BEtC-40" target="4bdg88DIGVANpdf8BEtC-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-40" value="Definir numero" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="303.25" y="9757" width="180" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4bdg88DIGVANpdf8BEtC-42" target="4bdg88DIGVANpdf8BEtC-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-42" value="Ingresamos valor a numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="325.75" y="9850" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4bdg88DIGVANpdf8BEtC-47" target="4bdg88DIGVANpdf8BEtC-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-44" value="Si" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bdg88DIGVANpdf8BEtC-43">
+          <mxGeometry x="-0.0823" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4bdg88DIGVANpdf8BEtC-47" target="4bdg88DIGVANpdf8BEtC-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-46" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bdg88DIGVANpdf8BEtC-45">
+          <mxGeometry x="0.2223" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-47" value="numero%2 &amp;amp;&amp;amp; numero %3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338.25" y="9960" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.013;entryY=0.372;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4bdg88DIGVANpdf8BEtC-49" target="4bdg88DIGVANpdf8BEtC-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557.2500000000005" y="10140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="563.25" y="10121" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-49" value="Divisible para 6" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="503.25" y="9987" width="108" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4bdg88DIGVANpdf8BEtC-51" target="4bdg88DIGVANpdf8BEtC-52">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="237.25000000000045" y="10140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="223.25" y="10120" />
+              <mxPoint x="333.25" y="10120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-51" value="No es divisible" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="173.25" y="9990" width="108" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-52" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="333.25" y="10106" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-53" value="&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Ejercicio extra2:&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Escribe un programa que pida al usuario ingresar un número positivo N. El programa debe imprimir los los primeros N números pares&amp;nbsp; utilizando una estructura repetitiva (ciclo):&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29.88" y="10590" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4bdg88DIGVANpdf8BEtC-55" target="4bdg88DIGVANpdf8BEtC-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-55" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="335.06999999999994" y="10860" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-56" value="Definir numero, contador,pares" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="305.06999999999994" y="10940" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4bdg88DIGVANpdf8BEtC-58" target="4bdg88DIGVANpdf8BEtC-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-58" value="Ingresamos valor a numero" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="327.56999999999994" y="11010" width="135" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4bdg88DIGVANpdf8BEtC-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395.06999999999994" y="11312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-60" value="Hacer" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bdg88DIGVANpdf8BEtC-59">
+          <mxGeometry x="-0.4472" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-61" value="Mientras&lt;br&gt;contador &amp;lt; numero" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340.06999999999994" y="11170" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395.06999999999994" y="11356" as="sourcePoint" />
+            <mxPoint x="395.06999999999994" y="11390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="4bdg88DIGVANpdf8BEtC-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="395.06999999999994" y="11434" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-64" value="Fin mientras" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4bdg88DIGVANpdf8BEtC-63">
+          <mxGeometry x="-0.4124" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-65" value="Número par + pares" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="342.56999999999994" y="11490" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4bdg88DIGVANpdf8BEtC-67" target="4bdg88DIGVANpdf8BEtC-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-67" value="contador = 0&lt;div&gt;pares = 0&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="345.06999999999994" y="11090" width="100" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4bdg88DIGVANpdf8BEtC-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="394.81999999999994" y="10980" as="sourcePoint" />
+            <mxPoint x="394.81999999999994" y="11020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-69" value="contador = contador + 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="320.06999999999994" y="11390" width="170" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-70" value="pares = pares + 2" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="310.06999999999994" y="11316" width="170" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-72" value="&lt;b&gt;Pseudo código:&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="35.879999999999995" y="11760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-73" value="&lt;span style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Ejercicio 1: Calcular el área de un triángulo.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; background-color: rgb(255, 255, 255);&quot;&gt;Escribe un programa que calcule el área de un triángulo utilizando la fórmula del&amp;nbsp;área, donde el usuario debe ingresar la base y la altura del triángulo.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="43.24999999999999" y="11850" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-74" value="&lt;div style=&quot;text-align: left;&quot;&gt;INICIO&lt;/div&gt;&lt;div&gt;//Declarar variables para la base, altura y área del triángulo&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;DECLARAR base,altura, area COMO NUMERICOS&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;//Pedir al usuario que ingrese la base del triángulo&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ESCRIBIR &quot;Ingrese la base del triángulo&quot;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;LEER BASE&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;//Pedir al usuario que ingrese la base del triángulo&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ESCRIBIR &quot;Ingrese la altura del triángulo&quot;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;LEER altura&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;//Calcular el área del triángulo usando la fórmula: (base * altura)/2&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;area &amp;lt;- (base * altura) / 2&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;//Mostrar el resultado del área&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;ESCRIBIR &quot;El área del triángulo es&quot; + area&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;FIN&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="38" y="11970" width="372" height="388" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-75" value="Algoritmo numero_par_impar&#xa;    &#xa;    Definir numero Como Entero; &#xa;    &#xa;    Escribir &quot;Ingresa un número&quot;;&#xa;    Leer numero;&#xa;    &#xa;        Si numero%2==0 Entonces&#xa;            Escribir &quot;Tu numero es par&quot;;&#xa;        SiNo&#xa;            Escribir &quot;Tu número es impar&quot;;&#xa;        Fin Si&#xa;    &#xa;FinAlgoritmo" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40.06999999999999" y="12510" width="310" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-76" value="&lt;strong id=&quot;yui_3_17_2_1_1727465194171_48&quot; style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Ejercicio 2: Número par o impar.&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Crear un programa que determine si un número ingresado por el usuario es par&amp;nbsp;o impar.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40.07" y="12400" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-77" value="Algoritmo numero_positivos&#xa;    definir numero Como Entero;&#xa;    Escribir &quot;Ingresa un numero&quot;;&#xa;    Leer numero;&#xa;    Si numero&gt;=0 Entonces&#xa;        Si numero==0 Entonces&#xa;            Escribir &quot;El numero es cero&quot;;&#xa;        SiNo&#xa;            Escribir &quot;El numero es Positivo&quot;;&#xa;        Fin Si&#xa;    SiNo&#xa;        Escribir &quot;El numero es Negativo&quot;;&#xa;    Fin Si&#xa;&#xa;&#xa;    &#xa;FinAlgoritmo" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="101.25" y="13089" width="240" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-78" value="&lt;p id=&quot;yui_3_17_2_1_1727465194171_49&quot; style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder;&quot;&gt;Ejercicio 3: Números positivos, negativos o cero.&amp;nbsp;&lt;/strong&gt;Cree un programa que determine si un número ingresado por el usuario es&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;positivo, negativo o cero.&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18.75" y="12920" width="405" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-79" value="&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Ejercicio 4:&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Desarrolle un algoritmo que permita leer dos valores distintos,&lt;/span&gt;&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;determinar cuál de los dos valores es el mayor y escribirlo.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="22.57" y="13400" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-80" value="Algoritmo numero_mayor&#xa;    definir numero1 Como Entero;&#xa;    definir numero2 Como Entero;&#xa;    &#xa;    Escribir  &quot;Ingresa el número 1&quot;;&#xa;    leer numero1;&#xa;    &#xa;    Escribir &quot;Ingresa el número 2&quot;;&#xa;    Leer numero2;&#xa;    &#xa;    Si numero1 != numero2 Entonces&#xa;        Si numero1 &gt; numero2  Entonces&#xa;            Escribir &quot;El número 1 es mayor&quot;; &#xa;        SiNo&#xa;            Escribir &quot;El número 2 es mayor&quot;;&#xa;        Fin Si&#xa;    SiNo&#xa;        Escribir &quot;Los números son iguales&quot;;&#xa;    Fin Si&#xa;    &#xa;FinAlgoritmo" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="88.57" y="13554" width="250" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-81" value="Algoritmo diferencia_valores&#xa;    DEfinir A Como Entero;&#xa;    DEfinir B Como Entero;&#xa;    Definir C Como Entero;&#xa;    Escribir &quot;Ingresa el numero A&quot;;&#xa;    Leer A;&#xa;    Escribir &quot;Ingresa el numero B&quot;;&#xa;    Leer B;&#xa;    Escribir &quot;Ingresa el numero C&quot;;&#xa;    Leer C;&#xa;    &#xa;    Si A!=B &amp;B!=C &amp;&amp; A!=C Entonces&#xa;        Si A&gt;B &amp;&amp; A&gt;C Entonces&#xa;            Escribir &quot;A es mayor&quot;;&#xa;        SiNo&#xa;            Si B&gt;C Entonces&#xa;                Escribir &quot;B es mayor&quot;;&#xa;            SiNo&#xa;                Escribir &quot;C es mayor&quot;;&#xa;            Fin Si&#xa;        Fin Si&#xa;    SiNo&#xa;        Escribir&quot;Los numero son diferentes&quot;;&#xa;    Fin Si&#xa;    &#xa;    Si A!=B &amp;B!=C &amp;&amp; A!=C Entonces&#xa;        Si A&lt;B&amp; A&lt;C Entonces&#xa;            Escribir &quot;A es menor&quot;;&#xa;        SiNo&#xa;            Si B&lt;C Entonces&#xa;                Escribir &quot;B es menor&quot;;&#xa;            SiNo&#xa;                Escribir &quot;C es menor&quot;;&#xa;            Fin Si&#xa;        Fin Si&#xa;    SiNo&#xa;    Fin Si&#xa;    &#xa;    &#xa;FinAlgoritmo" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="93.75" y="14300" width="250" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-82" value="&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Ejercicio 5:&lt;/strong&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Desarrolle un algoritmo que permita leer tres valores y almacenarlos&amp;nbsp;en las variables A, B y C respectivamente. El algoritmo debe imprimir cual es el&amp;nbsp;mayor y cuál es el menor. Recuerde constatar que los tres valores introducidos por&amp;nbsp;el teclado sean valores distintos. Presente un mensaje de alerta en caso de que se&amp;nbsp;detecte la introducción de valores iguales.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="28.749999999999993" y="14100" width="380" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-83" value="&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Ejercicio 6: Conversor de dólares a euros.&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Escribe un programa que convierta una cantidad de dinero en dólares a euros&amp;nbsp;utilizando una tasa de cambio fija.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="43.25" y="15290" width="320" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-84" value="Algoritmo dólares_Euros&#xa;    &#xa;    Definir num_Dolares Como Real;&#xa;    Definir Euros Como Real;&#xa;    &#xa;    Escribir &quot;Ingresa tu número de dólares para ser convertido en Euros&quot;;&#xa;    leer num_Dolares;&#xa;    &#xa;    Si num_Dolares &gt;= 0 Entonces&#xa;        Euros &lt;- num_Dolares * 0.8984;&#xa;        Escribir &quot;Tu cantidad de Euros es: &quot;,  Euros;&#xa;    SiNo&#xa;        Escribir &quot;La cantidad debe ser positiva&quot;;&#xa;    Fin Si&#xa;&#xa;&#xa;FinAlgoritmo" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="40" y="15438" width="420" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-85" value="&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Ejercicio 7: Cálculo de precio con descuento.&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Escribe un programa que permita al usuario ingresar el precio original de un artículo&amp;nbsp;y el porcentaje de descuento. Luego, el programa debe calcular y mostrar el precio&amp;nbsp;con el descuento aplicado.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="33.25" y="15790" width="420" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-86" value="Algoritmo precio_Descuento&#xa;    Definir precioOr como Real&#xa;    Definir porcentajeD Como Real&#xa;    Definir precioDescuento Como Real&#xa;    &#xa;    Escribir &quot;Ingresa el precio de un artículo&quot;&#xa;    Leer precioOr&#xa;    &#xa;    Escribir &quot;Ingresa el porcentaje de descuento&quot;&#xa;    Leer porcentajeD&#xa;    &#xa;    Si precioOr &gt;= 0 &amp;&amp; porcentajeD &gt;= 0 Entonces&#xa;        precioDescuento &lt;- precioOr - (precioOr * porcentajeD / 100)&#xa;        Escribir &quot;El precio con descuento es: &quot;, precioDescuento&#xa;    SiNo&#xa;        Escribir &quot;El precio o el porcentaje no pueden ser negativos.&quot;&#xa;    Fin Si&#xa;    &#xa;FinAlgoritmo" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="29.88" y="15920" width="380" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-87" value="&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Ejercicio 8: Calculadora de operaciones básicas.&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Escribe un programa que permita al usuario realizar operaciones matemáticas&amp;nbsp;básicas, como suma, resta, multiplicación y división, entre dos números. El usuario&amp;nbsp;debe ingresar los dos números y seleccionar la operación deseada (suma, resta,&amp;nbsp;multiplicación o división).&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="33.24999999999999" y="16450" width="325.5" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-88" value="Algoritmo calculadora&#xa;    Definir numero1 como  Entero;&#xa;    Definir numero2 Como Entero;&#xa;    Definir operador Como Caracter;&#xa;    &#xa;    Escribir&quot;Ingresa el número uno&quot;;&#xa;    leer numero1;&#xa;    &#xa;    Escribir &quot;Ingresa el número dos&quot;;&#xa;    leer numero2;&#xa;    &#xa;    Escribir &quot;Ingresa el operador para la operación&quot;;&#xa;    leer operador;&#xa;    &#xa;    Si operador==&quot;+&quot; Entonces&#xa;        resultado &lt;- numero1 + numero2;&#xa;        Escribir &quot;El resultado de tu suma es &quot; , resultado;&#xa;    SiNo&#xa;        Si  operador  == &quot;-&quot; Entonces&#xa;            resultado &lt;- numero1 - numero2;&#xa;            Escribir &quot;El resultado de tu resta es &quot; , resultado;&#xa;        SiNo&#xa;            Si operador  == &quot;*&quot;  Entonces&#xa;                resultado &lt;- numero1 * numero2&#xa;                Escribir &quot;El resultado de tu multiplicación es &quot; , resultado;&#xa;            SiNo&#xa;                Si numero2&lt;&gt;0 Entonces&#xa;                    resultado &lt;- numero1 / numero2&#xa;                    Escribir &quot;El resultado de tu división es &quot; , resultado;&#xa;                SiNo&#xa;                    Escribir &quot;No se puede dividir entre 0 &quot;, resultado;&#xa;                Fin Si&#xa;            Fin Si&#xa;        Fin Si&#xa;    Fin Si&#xa;    &#xa;FinAlgoritmo" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="19.999999999999996" y="16620" width="390" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-89" value="&lt;strong id=&quot;yui_3_17_2_1_1727546894447_55&quot; style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Ejercicio 9:&lt;/strong&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;&amp;nbsp;Una empresa paga a sus empleados además del sueldo base una bonificación&amp;nbsp;especial de 80 dólares por cada hijo. Realice un algoritmo que determine el monto de la&amp;nbsp;bonificación y el monto total a pagar al trabajador.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="15.07" y="17640" width="430" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-90" value="Algoritmo calculadora_Sueldo&#xa;    &#xa;    Definir sueldo como Entero;&#xa;    Definir bonificación como Entero;&#xa;    Definir numHijos Como Entero;&#xa;    Definir monto_Bonificacion Como Entero;&#xa;    Definir montoTotal Como Entero;&#xa;    bonificacion &lt;- 80;&#xa;    &#xa;    Escribir &quot;Ingresa tu sueldo:&quot;;&#xa;    leer sueldo;&#xa;    &#xa;    Escribir &quot;Ingresa cuantos hijos tienes&quot;;&#xa;    leer numHijos;&#xa;    &#xa;    Si numHijos&gt;=1 &amp;&amp;  numHijos != 0  &amp;&amp; numHijos % 1 =  0  Entonces&#xa;        monto_Bonificacion &lt;- numHijos;&#xa;        montoTotal &lt;- monto_Bonificacion + sueldo;&#xa;        &#xa;        Escribir &quot;El monto de la bonificación es &quot;, monto_Bonificacion;&#xa;        Escribir &quot;El monto total a pagar del trabajador es:&quot; , montoTotal;&#xa;    SiNo&#xa;        Escribir &quot;Debe tener más de un hijo, el # de hijos debe ser entero y  no negativo&quot;;&#xa;    Fin Si&#xa;&#xa;&#xa;    &#xa;FinAlgoritmo" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="26.25" y="17780" width="490" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-93" value="&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Ejercicio 10:&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;En un centro de comunicaciones alquilan tarjetas para realizar llamadas y cobran el&amp;nbsp;monto consumido de la tarjeta más un recargo del 20%. teniendo como dato de entrada el monto&amp;nbsp;inicial y el monto final de la tarjeta, determine el costo de la llamada.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="32.57" y="18810" width="410" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-94" value="Algoritmo costo_llamada&#xa;    &#xa;    Definir consumo Como Real;&#xa;    Definir recargo Como Real;&#xa;    Definir monto_Incial Como Real;&#xa;    Definir monto_Final Como Real;&#xa;    Definir costo Como Real;&#xa;    &#xa;    recargo &lt;- 0.2;&#xa;    &#xa;    Escribir &quot;Ingresa el monto Incial &quot;;&#xa;    Leer monto_Incial;&#xa;    &#xa;    Escribir &quot;Ingresa el monto Final&quot;;&#xa;    Leer monto_Final;&#xa;    &#xa;    consumo &lt;- monto_Incial - monto_Final;&#xa;    &#xa;    costo &lt;- consumo + (consumo * regargo);&#xa;    &#xa;    &#xa;    Escribir &quot;Tu costo es: &quot;, costo;&#xa;    &#xa;FinAlgoritmo" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="38.75" y="18970" width="270" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-95" value="&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Ejercicio extra1:&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Escribe un programa que pida al usuario ingresar un número entero. El programa debe verificar si el número ingresado es divisible por 2 y por 3.Si lo es, debe mostrar un mensaje indicando que el número es divisible por ambos. En caso contrario, mostrar un mensaje indicando que no lo es. Utiliza una estructura condicional anidada con el operador lógico &amp;amp;&amp;amp; (AND). Además, realiza un diagrama de flujo que muestre el proceso.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17.5" y="19370" width="410" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-96" value="Algoritmo divisibles&#xa;    &#xa;    Definir num como Entero;&#xa;    &#xa;    Escribir &quot;Ingresa un número entero:&quot;;&#xa;    Leer num;&#xa;    &#xa;    Si num % 2 = 0 &amp;&amp; num % 3 = 0 Entonces&#xa;        Escribir &quot;El número es divisible por 2 y por 3.&quot;;&#xa;    SiNo&#xa;        Escribir &quot;El número no es divisible por 2 y por 3.&quot;;&#xa;    Fin Si&#xa;    &#xa;FinAlgoritmo" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="25.07" y="19580" width="320" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-97" value="&lt;strong style=&quot;box-sizing: border-box; font-weight: bolder; color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Ejercicio extra2:&amp;nbsp;&lt;/strong&gt;&lt;span style=&quot;color: rgb(82, 96, 105); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Escribe un programa que pida al usuario ingresar un número positivo N. El programa debe imprimir los los primeros N números pares&amp;nbsp; utilizando una estructura repetitiva (ciclo):&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="32.57" y="19910" width="410" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4bdg88DIGVANpdf8BEtC-98" value="Algoritmo divisibles&#xa;    Definir num como Entero;&#xa;    Definir contador como Entero;&#xa;    Definir pares como Entero;&#xa;    &#xa;    contador &lt;- 0;&#xa;    pares &lt;- 0;&#xa;    &#xa;    Escribir &quot;Ingresa un número entero:&quot;;&#xa;    Leer num;&#xa;&#xa;&#xa;    Mientras contador &lt; num Hacer&#xa;        Escribir &quot;Número par: &quot;, pares;&#xa;        pares &lt;- pares + 2;         &#xa;        contador &lt;- contador + 1;   &#xa;    Fin Mientras&#xa;    &#xa;FinAlgoritmo" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="117.57" y="20060" width="240" height="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
